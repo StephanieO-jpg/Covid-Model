@@ -28,6 +28,8 @@ This data is curated and updated on a dashboard by the Center for Systems Scienc
 3. Matplotlib and Plotly libraries - Data Exploration and Visualisation
 4. Prophet, Tensorflow and Scikit learn - Data Modelling
 
+Since some visualizations are not displaying, here are the Notebooks : https://www.kaggle.com/stephanieomwanda/covid-19-fatalities-forecasting and https://www.kaggle.com/stephanieomwanda/optimisation
+
 # Collaborators
 - Maureen Mathenge : Data Cleaning
 - Jasline Gati : Exploratoty Data Analysis
